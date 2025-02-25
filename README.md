@@ -57,3 +57,28 @@ npm start
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+---
+
+# App de saúde da mulher
+
+Aplicativo móvel abrangente focado no rastreamento e suporte à saúde da mulher. Construído com React Native e Expo.
+
+## Funcionalidades
+
+### Fertilidade & Ciclo+
+- Acompanhamento do ciclo menstrual
+- Registro de sintomas e duração do ciclo
+- Visualização do histórico do ciclo
+
+### Gravidez em Foco
+- Acompanhamento semanal da gravidez
+- Dicas e recomendações de saúde
+- Sugestões de exercícios
+- Orientações de preparação
+
+### Suporte à Menopausa
+- Acompanhamento de sintomas
+- Dicas de bem-estar
+- Anotações pessoais
+- Compartilhamento com profissionais de saúde
